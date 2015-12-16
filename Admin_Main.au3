@@ -2,6 +2,8 @@
 #include <include.au3>
 #include <admin_chat.au3>
 
+;PostgreSQL
+
 $CONSOLE = "YES"
 ;$CONSOLE = "NO"
 
