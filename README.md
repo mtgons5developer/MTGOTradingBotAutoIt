@@ -10,3 +10,6 @@ https://dev.mysql.com/downloads/connector/odbc/
 
 
 You can reach me inside MTGO under "JustinAlmeda" or "TheTickeTree"
+
+
+Paypal Donations "mtgons5.ea@gmail.com"
