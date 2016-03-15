@@ -1,5 +1,3 @@
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ULLFVAWQ6NFG8
-
 # MagicTheGatheringOnline/MTGO
 AutoIT Source code built for Magic The Gathering Online, Automated Trading Software. Pixel Recognition Software.
 
