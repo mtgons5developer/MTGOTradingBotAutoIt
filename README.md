@@ -7,6 +7,9 @@ You'll need ODBC connector
 
 https://dev.mysql.com/downloads/connector/odbc/
 
+Requirements:
+
+Windows 7, 2GB RAM
 
 You can reach me inside MTGO under "JustinAlmeda" or "TheTickeTree"
 
