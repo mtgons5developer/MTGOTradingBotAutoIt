@@ -19,7 +19,7 @@ You can reach me inside MTGO under "JustinAlmeda" or "TheTickeTree". Feel free t
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z96CS4ZHQRJFG)
 
 
-
+Contact: mtgons5.ea@gmail.com
 
 
 
