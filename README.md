@@ -1,4 +1,5 @@
-# MagicTheGatheringOnline/MTGO
+# MTGOTradingBotAutoIt
+#DataXPH
 AutoIT Source code built for Magic The Gathering Online, Automated Trading Software. Pixel Recognition Software.
 
 https://ph.linkedin.com/in/ernesto-almeda-jr-88b765b4
