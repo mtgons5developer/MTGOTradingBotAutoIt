@@ -12,7 +12,7 @@ https://dev.mysql.com/downloads/connector/odbc/
 
 Requirements:
 
-Windows 7 or aboce, 2GB RAM
+Windows 7 or above, 2GB RAM
 
 You can reach me inside MTGO under "JustinAlmeda" or "TheTickeTree". Feel free to contact for questions.
 
